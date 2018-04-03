@@ -1,0 +1,7 @@
+{
+  "name": "HttpAuthProviderSecret",
+  "urlFragment": "HttpAuthSecret",
+  "comments": "API Demonstrates how the Http Authentication works with Secret Key.\nhttp://localhost:8080/rest/default/HttpAuthSecret/v1/hello\n\nHeader: \nAuthorization -- Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiUm9sZSI6Ik1hbmFnZXJzIiwiaWF0IjoxNTE2MjM5MDIyfQ.1cGqJfe5HfwCO3ygQtSE_tBaj09brNRdBGSBDXm4X1o\n\nTo generate JWT, check the Authenticator comments.",
+  "isEnabled": true,
+  "authProviderName": "httpAuthSecret"
+}

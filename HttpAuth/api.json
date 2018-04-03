@@ -1,0 +1,7 @@
+{
+  "name": "HttpAuthProvider",
+  "urlFragment": "HttpAuth",
+  "comments": "API Demonstrates how the Http Authentication works with Public & Private Key.\n\nhttp://localhost:8080/rest/default/HttpAuth/v1/hello\n\nHeader: \nAuthorization -- Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiZ3JvdXBzIjoiTWFuYWdlcnMiLCJpYXQiOjE1MTYyMzkwMjJ9.bvp-sTK214q0jWOrC26jVaDtZ9omIu7w46DG4sXb96lVbB3acXK-CKxQBfUp57lV6jg48idzRSWCVvG8JnFWBxdRhRN5GKy-mBQAFhWmVBe2BPejWC49V3vhBahmKgPcViwH84Fa6R1JArtoEpOwLxuSoat64s2WSVkLbcxNjro\n\nTo generate JWT, check the Authenticator comments.",
+  "isEnabled": true,
+  "authProviderName": "httpAuth"
+}

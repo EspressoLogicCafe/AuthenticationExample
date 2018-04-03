@@ -1,0 +1,7 @@
+{
+  "name": "BasicAuth",
+  "urlFragment": "basic",
+  "comments": "API Demonstrates how the Basic Authentication works.\n\nhttp://localhost:8080/rest/default/basic/v1/hello\nHeader: \nAuthorization -- CALiveAPICreator xJBVWYntYcFBZhtzpNko:1\n\nNotes: To find the Authorization token, look under Manage -->Auth Tokens",
+  "isEnabled": true,
+  "authProviderName": "Built-in authentication"
+}
